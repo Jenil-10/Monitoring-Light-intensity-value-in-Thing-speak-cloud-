@@ -1,5 +1,5 @@
-## NAME : JEEVAPRIYA R
-## REG. NO.:212222220018
+## NAME : JENIL PIO J
+## REG. NO.:212223220040
 # Monitoring-Light-intensity-value-in-Thing-speak-cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
