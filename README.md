@@ -1,6 +1,7 @@
-## NAME : JENIL PIO J
-## REG. NO.:212223220040
-# Monitoring-Light-intensity-value-in-Thing-speak-cloud
+ NAME : JENIL PIO j
+ 
+REG. NO.:212223220040
+
 # Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
